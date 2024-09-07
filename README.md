@@ -642,17 +642,20 @@
 
 - `종료된 기업카드` 관리
     
-    ![image](https://github.com/user-attachments/assets/cbaff65d-4ae9-4039-8526-f6b21937720b)
+    ![image](https://github.com/user-attachments/assets/59c235f9-9b57-4cbd-98fd-dac753cf7577)
+
 
     
     - 불합격 / 최종합격 현황 확인 가능
     - 복기노트 : 전형 준비가 완료된 기업에 대해서 복기 및 회고할 수 있는 기능
         - 서류/면접/기타 전형별 간편 복기 기능
 
-![image](https://github.com/user-attachments/assets/fe4df321-a8a1-42d0-ad4c-0ca1f69dc5bf)
+![image](https://github.com/user-attachments/assets/6f530ebb-86ab-46a9-b050-9aa324698ad3)
 
 
-![image](https://github.com/user-attachments/assets/e57bac2f-1410-44d1-91a4-c785d611a7c7)
+
+![image](https://github.com/user-attachments/assets/b4aa10ea-ae2e-4941-9e0d-01a713ecc808)
+
 
 
 - `면접`
