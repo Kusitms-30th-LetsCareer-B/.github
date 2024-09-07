@@ -517,7 +517,8 @@
 
 ## 7. ✏️ 서비스 기능 소개
 
-![image](https://github.com/user-attachments/assets/13f00bf5-f473-4a7a-bd3d-aa53ec8bf2e4)
+![image](https://github.com/user-attachments/assets/1ccbf0d1-ed78-4775-98c9-da8c32af2089)
+
 
 
 ### 1) MY 홈
