@@ -638,10 +638,6 @@
     - 루틴 등록 (매일/매주) : 반복해야하는 일정이나 루틴을 등록하기 위한 기능
     - 일정 미루기, 날짜 변경 기능
 - `기업별 관련 자료 아카이빙`
-    
-  ![image](https://github.com/user-attachments/assets/35a89b42-8bf6-4d29-bec5-997606e374df)
-
-    
     - 기업별 자기소개서 작성하기 페이지 → 자소서 작성 시, 커리어 관리 [필살기 경험] 탭에 있는 경험 불러오기 가능
     - 아카이빙 :  취업 준비에 필요한 각종 자료들을 아카이빙하는 공간 → 자유로운 게시글 작성 / 파일 업로드 기능
     
@@ -661,10 +657,11 @@
     
     - 불합격 / 최종합격 현황 확인 가능
     - 복기노트 : 전형 준비가 완료된 기업에 대해서 복기 및 회고할 수 있는 기능
-        - 서류/면접/기타 전형별 간편 복기 기능
+        
 
 ![image](https://github.com/user-attachments/assets/6f530ebb-86ab-46a9-b050-9aa324698ad3)
 
+- 서류/면접/기타 전형별 간편 복기 기능
 
 
 ![image](https://github.com/user-attachments/assets/b4aa10ea-ae2e-4941-9e0d-01a713ecc808)
@@ -676,15 +673,18 @@
     - 핵심 키워드 선택(잘한점/아쉬운점)
     - 면접 질문&답변 리스트 작성(잘한/아쉬운 답변 기록)
     - 아쉬웠던 질문 다시보기 기능
+
+![image](https://github.com/user-attachments/assets/4e7dcc05-59c3-4b66-bdc3-d5996775fd20)
+
 - `기타`
     - 만족도
     - 난이도
     - 잘한점/아쉬운점 자유롭게 기록
 
-![image](https://github.com/user-attachments/assets/4e7dcc05-59c3-4b66-bdc3-d5996775fd20)
 
 
-### 4) 커리어 관리  ****
+
+### 4) 커리어 관리 
 
 ![image](https://github.com/user-attachments/assets/ca8180c4-7989-4819-ac21-490343549c84)
 
