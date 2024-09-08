@@ -748,6 +748,14 @@
   - 다양한 라이브러리와 설정을 자동으로 제공하므로 개발자가 애플리케이션을 더 빠르게 만들 수 있음
   - 특정 환경이나 서버, 기술에 종속되지 않으며 유연한 애플리케이션을 개발할 수 있음
   - QueryDSL은 타입 안전한 방식으로 SQL 쿼리를 작성할 수 있어, 컴파일 시점에 오류를 잡아내고 가독성을 높임
+
+- #### Test
+  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+  ![Mockito](https://img.shields.io/badge/Mockito-1E92DD?style=flat-square&logo=Mockito&logoColor=white)
+  - JUnit은 자바 기반의 단위 테스트 프레임워크로, 테스트를 자동화하여 코드의 품질을 보장하며, 코드 변경 시 발생할 수 있는 버그를 신속히 탐지
+  - Mockito는 Mock Object를 사용해 의존성을 분리하고 테스트 대상의 행위만을 집중적으로 검증할 수 있어, 유닛 테스트 작성이 더 쉬움
+
+
 - #### Cloud
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
