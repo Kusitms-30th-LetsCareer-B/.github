@@ -717,6 +717,16 @@
 <br><br>
 
 # 9.  🎨디자인 GUI
+![큐시즘 제출용 표지](https://github.com/user-attachments/assets/3bc71ac6-b5bf-4a63-ad6f-316061afd2f2)
+![디자인 시스템](https://github.com/user-attachments/assets/6ce94508-c7ba-4371-8dcf-3ad2fa87394f)
+![MY 홈](https://github.com/user-attachments/assets/171234fa-b973-4f5d-8ed2-b4dab753f21b)
+![내 캘린더](https://github.com/user-attachments/assets/e2de2227-afd5-44b9-8103-c3fcfcafacee)
+![내 지원현황 보기 10](https://github.com/user-attachments/assets/4ea2a0f9-af44-4ea7-bd1d-61c051d235fa)
+![내 지원현황 보기 11](https://github.com/user-attachments/assets/dc8d5f41-eebe-4aae-950b-bdb229c478a8)
+![내 지원현황 보기 12](https://github.com/user-attachments/assets/3c8bb7cd-4fc1-449f-aced-c4400236b33d)
+![자기소개서](https://github.com/user-attachments/assets/63d29e1a-deea-44d6-81ba-887ced4da524)
+![커리어 관리](https://github.com/user-attachments/assets/95dbccc0-20c8-4e84-8747-527dcf019110)
+![복기노트](https://github.com/user-attachments/assets/00b07e43-72a9-49ae-9460-b803eee40bae)
 
 
 <br><br>
