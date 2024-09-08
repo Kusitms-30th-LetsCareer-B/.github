@@ -733,11 +733,35 @@
 <br><br>
 
 # 10.  🛠️ 기술 스택
-### 📱 FrontEnd
-|<img src="https://github.com/user-attachments/assets/155a8f94-6266-4072-8fcc-8f5060a7efcc" width="170" />|<img src="https://github.com/user-attachments/assets/2183bb96-4e4a-4a65-9424-398e984c15d8" width="170" />|<img src="https://github.com/user-attachments/assets/f040296f-4014-48ad-8e23-3a7e0f9e7ffa" width="170" />|<img src="https://github.com/user-attachments/assets/c4ca3029-26fd-4a97-86d8-955d6dc73468" width="170" />|<img src="https://github.com/user-attachments/assets/82e221cf-9259-4e5f-8402-9d044275ae9d" width="170" />|
-|:---------:|:---------:|:---------:|:---------:|:---------:|
-|React|TypeScript|Vite|TailwindCSS|Vercel| </br>
 
+### 📱 FrontEnd
+
+![React](https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
+
+- #### React 
+  - 동적이고 상호작용이 필요한 UI를 효율적으로 만들기 위해 사용
+  - 컴포넌트 기반 구조 덕분에 코드 재사용이 가능하고, 개발 속도 및 유지보수에 유리
+  
+- #### TypeScript
+  - 자바스크립트에 정적 타입을 추가해 코드 안정성과 가독성 향상
+  - 타입 체크 덕분에 오류를 미리 발견하고 버그를 줄이는 데 기여
+  
+- #### Vite 
+  - 빠른 개발 환경을 제공
+  - 즉각적인 핫 모듈 교체 기능으로 개발 피드백이 빠르고, 전통적인 번들러보다 속도가 빠름
+    
+- #### TailwindCSS 
+  - HTML 내에서 유틸리티 클래스만으로 빠르고 일관된 스타일링을 가능하게 함
+  - 커스텀 CSS 없이도 일관된 디자인 유지에 유리
+    
+- #### Vercel
+  - 손쉬운 배포와 글로벌 확장성을 제공하는 클라우드 플랫폼
+  - CI/CD 통합을 통해 빠르고 효율적인 배포 프로세스 지원
+    
 ### 🖥️ BackEnd
 
 - #### Language, Framework, Library
