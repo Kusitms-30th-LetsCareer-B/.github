@@ -736,11 +736,15 @@
 
 ### 📱 FrontEnd
 
-![React](https://img.shields.io/badge/react-%2361DAFB?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4?style=flat-square&logo=axios&logoColor=white)
+![React-Router-Dom](https://img.shields.io/badge/ReactRouterDom-%23CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![ESLint](https://img.shields.io/badge/Eslint-%234B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E?style=flat-square&logo=prettier&logoColor=white)
 
 - #### React 
   - 동적이고 상호작용이 필요한 UI를 효율적으로 만들기 위해 사용
