@@ -722,7 +722,12 @@
 <br><br>
 
 # 10.  💻 사용 스택
-### Server
+### FrontEnd
+|<img src="https://github.com/user-attachments/assets/155a8f94-6266-4072-8fcc-8f5060a7efcc" width="170" />|<img src="https://github.com/user-attachments/assets/2183bb96-4e4a-4a65-9424-398e984c15d8" width="170" />|<img src="https://github.com/user-attachments/assets/f040296f-4014-48ad-8e23-3a7e0f9e7ffa" width="170" />|<img src="https://github.com/user-attachments/assets/c4ca3029-26fd-4a97-86d8-955d6dc73468" width="170" />|<img src="https://github.com/user-attachments/assets/82e221cf-9259-4e5f-8402-9d044275ae9d" width="170" />|
+|:---------:|:---------:|:---------:|:---------:|:---------:|
+|React|TypeScript|Vite|TailwindCSS|Vercel| </br>
+
+### BackEnd
 
 - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-FF9900?style=flat-square&logo=JAVA&logoColor=FFFFFF)
