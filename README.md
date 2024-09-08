@@ -738,14 +738,16 @@
 
 ### 🖥️ BackEnd
 
-- #### Language, Framework
+- #### Language, Framework, Library
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-FF9900?style=flat-square&logo=JAVA&logoColor=FFFFFF)
   ![Springboot](https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
   ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
   ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![QueryDSL](https://img.shields.io/badge/QueryDSL-4096EE?style=flat-square&logo=QueryDSL&logoColor=white)
   - 다양한 라이브러리와 설정을 자동으로 제공하므로 개발자가 애플리케이션을 더 빠르게 만들 수 있음
   - 특정 환경이나 서버, 기술에 종속되지 않으며 유연한 애플리케이션을 개발할 수 있음
+  - QueryDSL은 타입 안전한 방식으로 SQL 쿼리를 작성할 수 있어, 컴파일 시점에 오류를 잡아내고 가독성을 높임
 - #### Cloud
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
   ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
@@ -753,13 +755,13 @@
   ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=Amazon%20RDS&logoColor=white)
   ![ElastiCache](https://img.shields.io/badge/ElastiCache-527FFF?style=flat-square&logo=Amazon)
   - 탄력적인 서버 인프라를 제공하여 필요에 따라 컴퓨팅 자원을 자동으로 확장 및 축소할 수 있어 비용 절감과 성능 최적화가 가능
-  - 안정적이고 확장 가능한 스토리지를 제공하며, 파일 저장 및 정적 콘텐츠 제공에 적합해 대규모 파일 관리를 효율적으로 처리 가능
+  - S3는 안정적이고 확장 가능한 스토리지를 제공하며, 파일 저장 및 정적 콘텐츠 제공에 적합해 대규모 파일 관리를 효율적으로 처리 가능
   - Elasticache는 빠른 캐싱을 통해 데이터베이스 성능을 향상시켜 응답 속도를 최적화
 - #### CICD
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-  - 어느 환경에서나 배포할 수 있도록 하는 대표적인 컨테이너 런타임
-  - 깃허브 액션을 활용하여 별도의 인스턴스 없이 간편하게 ci-cd 파이프라인 구축
+  - 자동화된 워크플로우로 코드 변경 시 테스트, 빌드, 배포 과정을 신속하게 처리해 개발 주기를 단축
+  - 애플리케이션을 컨테이너로 묶어 일관된 환경에서 실행되도록 보장해, 배포 시 환경 차이에 따른 오류를 최소화
 - #### Database
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
@@ -767,7 +769,11 @@
 - #### API 테스트, 명세서
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-  - 노션에 API 명세서 및 swagger를 동시에 활용함으로 프론트 개발자에게 편리성 제공
+  ![Spring REST Docs](https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat-square&logo=spring&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
+  - RestDocs를 통해 생성된 문서를 Swagger UI로 시각화하여, 개발자와 비개발자 모두가 실시간으로 API를 테스트 가능
+  - 테스트 코드 작성과 함께 API 문서가 자동으로 생성되어, 실제 코드와 문서의 동기화 문제가 발생하지 않음
+  - 테스트 시에 문서를 검증할 수 있어 신뢰성을 높임
 
 ### 🙏 협업 툴
 - ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white)
